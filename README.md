@@ -1,2 +1,2 @@
-# admin-data-ecuador
-En este repositorio almacenamos datos administrativos de libre acceso para el Ecuador.
+# Repositorio LIDE de Datos de Registro Administrativos
+En este repositorio almacenamos datos de registro administrativo de libre acceso para el Ecuador.
